@@ -6,7 +6,7 @@ Privilege Escalation PoC when seccomp is disabled for Android 10+.
 
 [Download (CI Artifacts)](https://github.com/vvb2060/Magica/actions?query=branch%3Amaster)
 
-## Usage
+## Usage 
 
 ```sh
 adb root
